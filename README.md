@@ -1,1 +1,3 @@
-Hello Word, ini repository pertama saya
+Hello Github, ini repository pertama saya
+
+ini fitur 1
